@@ -1,16 +1,22 @@
-# app_s08
+# PRÁCTICA CALIFICADA 02
 
-A new Flutter project.
+## PANTALLAS
+### LOGIN
+<img width="1915" height="1199" alt="image" src="https://github.com/user-attachments/assets/fb1d9ea6-c47b-4fb2-93c1-245a0146b5a9" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Menú
 
-A few resources to get you started if this is your first Flutter project:
+HOME
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LISTA DE PRODUCTOS
+
+
+
+
+
+
+AGREGAR PRODUCTOS
+
+
